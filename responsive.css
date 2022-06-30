@@ -1,0 +1,122 @@
+    @media screen and (max-width:768px) {
+        .menu {
+            justify-content: center;
+        }
+        .banner_text {
+            padding: 150px 0 0 0;
+        }
+        .banner_text {
+            width: 100%;
+            justify-content: center;
+        }
+        .banner_img {
+            width: 100%;
+        }
+        .burger_container_1 {
+            width: 100%;
+            padding: 0;
+        }
+        .burger_container_2 {
+            width: 100%;
+            padding: 0px;
+        }
+        .burger_sub_container {
+            margin-bottom: 20px;
+        }
+        .order_text {
+            width: 100%;
+        }
+        .order_wrap{
+            width: 100%;
+            margin-bottom: 25px;
+        }
+        .order_img img {
+            /* height: 100%; */
+            height: auto;
+            width: 100%;
+        }
+        .event_img {
+            display: flex;
+            align-items: center;
+        }
+    }
+    
+    @media screen and (max-width:425px) {
+        .header_top .logo {
+            width: 100%;
+            justify-content: center;
+        }
+        .header_top .phone {
+            width: 100%;
+            justify-content: center;
+            padding: 30px 0 0 0
+        }
+        .menu ul li {
+            margin: 5px 20px;
+        }
+        .banner_text {
+            padding: 240px 0 0 0;
+        }
+        .text_wrap {
+            width: 100%;
+        }
+        .text_wrap h1 {
+            font-size: 70px;
+        }
+        .text_wrap h4 {
+            font-size: 15px;
+        }
+        .event_text {
+            width: 100%;
+            text-align: center;
+        }
+        .event_text p {
+            padding: 40px 0px 15px 0px;
+        }
+        .event_img {
+            width: 100%;
+        }
+        .order_top p {
+            padding: 0;
+        }
+        .left_bg,
+        .right_bg {
+            display: none;
+        }
+        .form_top {
+            text-align: center;
+        }
+        .form_wrap {
+            width: 100%;
+        }
+        .foot_logo img {
+            width: 100%;
+        }
+        .foot_text {
+            text-align: center;
+        }
+        .foot_text p {
+            width: 100%;
+        }
+        .location {
+            width: 100%;
+        }
+        .foot_down {
+            text-align: center;
+            justify-content: center;
+        }
+        .social {
+            padding: 15px 0px;
+        }
+        .location {
+            align-items: center;
+        }
+        @media screen and (max-width:375px) {
+            h2 {
+                font-size: 35px;
+            }
+            .event_text h2 {
+                font-size: 30px;
+            }
+        }
+    }
