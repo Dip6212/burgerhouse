@@ -239,7 +239,7 @@ header {
 .banner_sec {
     padding: 60px 0 60px 0;
     /* background-color: #fdbe43; */
-    background-image: url('../header.jpg');
+    background-image: url('header.jpg');
 }
 
 .banner_wrap {
@@ -606,7 +606,7 @@ footer {
 .foot_wrap {
     display: flex;
     flex-wrap: wrap;
-    background-image: url('../footer.jpg');
+    background-image: url('footer.jpg');
     background-size: cover;
     padding: 30px 35px 0 35px;
     flex-direction: column;
